@@ -13,7 +13,7 @@ var config = {
         "Vì tớ cảm nhận được cậu cười sẽ xinh lắm",
         "Đừng khóc vì ai nữa nhé",
         "Nếu buồn thì tớ luôn ở sau lắng nghe cậu",
-        "Nguyễn Duy (oOoSh1Su1oOo) (--__--\")",
+        "oOoSh1Su1oOo (--__--\")",
     ],
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
